@@ -10,6 +10,7 @@ origins = [
     "http://localhost:5173",
     "http://127.0.0.1:5173",
     "http://localhost:3000",
+    "https://productive-boards-frontend.vercel.app/",
 ]
 
 app.add_middleware(
